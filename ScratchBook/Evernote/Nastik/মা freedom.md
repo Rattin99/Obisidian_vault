@@ -1,0 +1,3 @@
+---
+---
+You were always a slave! Freedom would be torture for you. You would not know what to do with it...

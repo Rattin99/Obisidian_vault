@@ -1,0 +1,13 @@
+---
+---
+ - [x] the perks of being a wallflower
+ - [x] Beauty and the beast
+ - [x] the bling ring
+ - [ ] My week with marilyn
+ - [ ] children who chase lost voices
+ - [x] spirited away
+ - [x] my dinner with andre
+ - [x] Logan
+ - [x] Manchester by the sea
+ - [x] la la land
+ - [ ] moonlight

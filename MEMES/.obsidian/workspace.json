@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "fb0dee2a17a84472",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0bb5c75def45a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab4e2acb1526c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the prompt/The Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fffe58f2282a981",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee1bd633693b0be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8be5cbf78a8d6ee8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cb4636d8b31bd92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "842a37c33fd541ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2f4f270731c1d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9093cd79553817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6bf87a420e3ab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "the prompt/The Prompt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f04ab06f5364265",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "the prompt/The Prompt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71266e3559a7e946",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "939732766036255e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "the prompt/The Prompt.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bab4e2acb1526c93",
+  "lastOpenFiles": [
+    "the prompt/chapter 4.md",
+    "the prompt/The Prompt.md",
+    "the prompt/chapter 3.md",
+    "se dekhte pache/1.md",
+    "the prompt",
+    "se dekhte pache/2.md",
+    "se dekhte pache/ending.md",
+    "se dekhte pache/intro.md",
+    "se dekhte pache/taniarboss.md",
+    "Hitler In Fma.png"
+  ]
+}

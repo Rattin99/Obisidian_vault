@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "137a41eb8c7a1057",
+    "type": "split",
+    "children": [
+      {
+        "id": "5650eb7684fa1e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca7b88f3d9f646a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2024-05-10 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd1cf4ffda54038c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c9ee040eb9f8a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc8c571992ef5bfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a81c86beb6297225",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c88e17207eba8be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3507940f11eb01f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ccafb6185c0636c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5153b8cfec59ac04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/Daily/2024-05-10 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d99f6158a4f52c81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/Daily/2024-05-10 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "216f905cbbabd7f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5632349d9c3ff809",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/Daily/2024-05-10 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ca7b88f3d9f646a",
+  "lastOpenFiles": [
+    "Journal/Daily/2024-05-10.md",
+    "Journal/Daily/2024-04-22.md",
+    "Journal/Daily/2024-07-06.md",
+    "Journal/Daily/2024-07-05.md",
+    "Journal/Daily/2024-07-01.md",
+    "Journal/Daily/2024-07-03.md",
+    "Journal/Daily/2024-06-15.md",
+    "Journal/Daily/2024-06-13.md",
+    "Journal/Daily/2024-05-24.md",
+    "Journal/Daily/2024-05-18.md",
+    "Journal/Daily/2024-05-15.md",
+    "Journal/Daily/2024-05-14.md",
+    "Journal/Daily/2024-05-13.md",
+    "Journal/Daily/2024-05-12.md",
+    "Journal/Daily/2024-05-11.md",
+    "Journal/Daily/2024-05-10 1.md",
+    "Journal/Daily/2024-07-04.md",
+    "Untitled.md",
+    "YouTube/Script 1 - what is professional wrestling.md",
+    "resources/2B5YXkfi.jpeg",
+    "resources/eXIKY1dv.jpeg",
+    "resources/S_iHzm5E.jpeg",
+    "resources",
+    "S_iHzm5E 1.jpeg",
+    "eXIKY1dv 2.jpeg",
+    "S_iHzm5E 2.jpeg",
+    "S_iHzm5E 3.jpeg",
+    "eXIKY1dv 1.jpeg",
+    "2B5YXkfi 2.jpeg",
+    "2B5YXkfi 1.jpeg",
+    "Welcome.md",
+    "Evernote/sparks/Untitled Note.3.md",
+    "Journal/Daily/Untitled.md",
+    "Evernote/sparks/Wardrobe.md",
+    "Journal/Daily",
+    "Journal",
+    "Evernote/sparks/Untitled Note.2.md",
+    "Evernote/sparks/Untitled Note.1.md",
+    "Evernote/sparks/Untitled Note.md",
+    "Resume.md.txt",
+    "Evernote/AWESOME/_resources/Untitled_Note.21.resources",
+    "Evernote/Therapy/_resources",
+    "Evernote/Therapy",
+    "Evernote/sparks/_resources",
+    "Evernote/sparks",
+    "Evernote/short stories/_resources"
+  ]
+}

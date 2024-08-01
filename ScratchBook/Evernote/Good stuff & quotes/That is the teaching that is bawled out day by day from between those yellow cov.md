@@ -1,0 +1,3 @@
+---
+---
+That is the teaching that is bawled out day by day from between those yellow covers. Do they ever pause to think, I wonder, those devil's ladyhelps, what mischief they are doing crawling about God's garden, and telling childish Eves and silly Adams that sin is sweet and that decency is ridiculous and vulgar? How many an innocent girl do they not degrade into an evil-minded woman? To how many a weak lad do they not point out the dirty by-path as the shortest cut to a maiden's heart? It is not as if they wrote of life as it really is. Speak truth, and right will take care of itself. But their pictures are coarse daubs painted from the sickly fancies of their own diseased imagination

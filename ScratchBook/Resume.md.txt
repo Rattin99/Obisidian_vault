@@ -1,0 +1,55 @@
+﻿Rattin Sadman
+email: rattin99m18@gmail.com    github: github.com/Rattin99
+Phone: 01719306485
+	
+
+	EXPERIENCE
+
+
+
+
+Thameswave Technology - Junior Frontend Developer
+November 2023 - March 2024
+Worked as a frontend developer on the CareMasta Project. 
+Hulkenstein, hulkenstein.com — Backend Developer
+May 2021 - March 2022
+Managed and maintained databases for the company’s educational platform. Created an api that queries and  fetches MCQ questions from  the database(google sheet)
+Freelance — full stack developer
+Jan 2020 - Present
+Developed and maintained various web applications for clients using React, Node.js, Java and SQL
+Notable PROJECTS 
+Mondrion— 
+Procedurally generates some of the great works of Piet Mondrian. Allows users to tune parameters and choose color palettes. (React, p5.js)
+
+
+SUST-CSE-QB- (Facebook Messenger bot)
+Takes oral exam questions as text inputs, stores them in a database, sorting by course name and topic c (Node.js, Heroku, Notion API, Facebook Webhooks)
+
+
+Moanamour-
+Takes webcam or mobile front camera video as input, detects motion in a specific area, and generates audio feedback accordingly.(React, WebRTC, web workers, opencv) 
+
+
+SUSTMASH-
+A social media platform inspired by Zuckerberg’s Facemash. Where users can upload multiple images in a post and then other users can rank those images. Each user can rank images from a particular post only once. Invite only signup was implemented from scratch. The elo ranking algorithm was used for the ranking. I used Google Cloud Functions and Google Cloud Sql as the backend infrastructure while using express and mysql as  backend technology
+
+
+EDUCATION
+Shahjalal University of Sceince and Technology, Sylhet — Bachelor of Science in Computer Science and Technology
+Jan 2019 - Feb 2024
+	SKILLS
+
+
+– Programming Languages: Java, JavaScript, TypeScript, Python,Rust and SQL
+
+
+– Backend Technologies: Express, MySQL, PostgreSQL, MongoDB, Google Cloud Platform, Docker
+
+
+- Frontend Technologies: React, Redux, Tailwind CSS, HTML, CSS
+
+
+-Notable Libraries:
+Threejs, p5.js, puppeteer, playwright, JavaFX, Tensorflow, ChakraUI, 
+LANGUAGES
+Fluent in English and Bangla

@@ -1,0 +1,41 @@
+---
+---
+Data Structure:
+- [x] Linked List(Stack,Queue)
+- [ ] Sorting Algo (Bubble,Insertion, Merge, Quick, Radix, Counting, Heap)
+- [x] Binary Search Tree
+- [ ] Avl Tree
+- [ ] Binary Indexed Tree
+- [ ] Segment Tree(without lazy)
+- [ ] Trie Tree
+- [ ] BFS,DFS
+- [ ] Dijkstra
+- [ ] Warshall
+- [ ] Bellman
+- [ ] MST(prims,Kruskal)
+- [ ] DSU
+- [ ] Topo Sort
+- [ ] Articulation point/Bridge
+Algorithms:
+- [x] Complexity Analysis
+- [ ] Job Scheduling
+- [ ] Knapsack
+- [ ] Coin Change
+- [ ] MCM
+- [ ] LCS
+- [ ] Ford Fulkerson
+- [ ] Maximum Bipartite Maching
+- [ ] Hashing
+- [ ] Rabin Karp
+- [ ] KMP
+- [ ] Branch and Bound(15-puzzle,N-queen,Graph coloring)
+- [ ] Segment-Segment Intersaction
+- [ ] convex hull
+CSE 150:
+- [x] Binary Search
+- [ ] Ternary Search
+- [ ] Hashing
+- [ ] Segment Tree
+- [ ] Game Theory
+- [ ] Basic Geometry
+- [ ] Convex Hull
